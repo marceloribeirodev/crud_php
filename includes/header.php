@@ -14,8 +14,8 @@
     <div class="container">
     
       <div class="jumbotron bg-danger">
-        <h1> CRUD - PHP</h1>
-        <p>CRUD PHP - Orientado a Objetos</p>
+        <center><h1> CRUD - PHP</h1></center>
+        <center><p>CRUD PHP - Orientado a Objetos</p></center>
       </div>    
       
 
